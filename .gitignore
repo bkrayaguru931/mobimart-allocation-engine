@@ -30,5 +30,3 @@ build/
 *.tmp
 *.log
 
-# Generated outputs
-outputs/*.csv
