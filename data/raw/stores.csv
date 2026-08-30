@@ -1,0 +1,26 @@
+store_id,city,tier,location_type,positioning,store_size_sqft,daily_footfall,catchment_income,premium_affinity,budget_affinity
+BLR01,Bangalore,Tier-1,Jayanagar,Premium,1551,1267,85000,0.898,0.199
+BLR02,Bangalore,Tier-1,Koramangala,Premium,1709,1458,85000,0.885,0.328
+BLR03,Bangalore,Tier-1,Whitefield,Premium,2709,1335,85000,0.834,0.156
+BLR04,Bangalore,Tier-1,Indiranagar,Premium,1976,1572,85000,0.851,0.155
+BLR05,Bangalore,Tier-1,Mall,Premium,2966,1654,85000,0.88,0.259
+BLR06,Bangalore,Tier-1,Residential,Mixed,2419,1012,85000,0.547,0.652
+BLR07,Bangalore,Tier-1,Electronic Market,Mixed,1826,1087,85000,0.575,0.535
+BLR08,Bangalore,Tier-1,Outer Ring Road,Mixed,1940,1006,85000,0.639,0.534
+MYS01,Mysore,Tier-2,City Center,Mixed,1189,456,50000,0.424,0.662
+MYS02,Mysore,Tier-2,Residential,Budget,1070,593,50000,0.171,0.896
+HUB01,Hubli,Tier-2,City Center,Mixed,927,717,45000,0.643,0.545
+HUB02,Hubli,Tier-2,Market,Budget,1100,632,45000,0.174,0.874
+TUM01,Tumkur,Tier-2,City Center,Budget,1170,909,40000,0.137,0.891
+TUM02,Tumkur,Tier-2,Residential,Budget,1477,335,40000,0.084,0.808
+DAV01,Davangere,Tier-2,City Center,Budget,1675,448,38000,0.085,0.77
+DAV02,Davangere,Tier-2,Market,Budget,1264,492,38000,0.145,0.823
+BEL01,Belgaum,Tier-2,City Center,Mixed,1163,619,43000,0.452,0.517
+MAN01,Mangalore,Tier-2,Mall,Premium,1499,1243,60000,0.88,0.272
+MAN02,Mangalore,Tier-2,Residential,Mixed,1346,393,60000,0.582,0.491
+SHI01,Shivamogga,Tier-2,City Center,Budget,1076,625,42000,0.198,0.878
+UDU01,Udupi,Tier-2,City Center,Mixed,1024,730,50000,0.571,0.661
+KAL01,Kalaburagi,Tier-2,Market,Budget,857,747,35000,0.084,0.756
+HOS01,Hassan,Tier-3,City Center,Budget,1210,587,37000,0.09,0.792
+CHI01,Chitradurga,Tier-3,Market,Budget,1380,832,34000,0.181,0.813
+KOP01,Koppal,Tier-3,Market,Budget,1311,685,32000,0.109,0.933

@@ -1,0 +1,61 @@
+model_id,brand,family,model_name,category,price,launch_date,generation,successor_model_id,successor_launch_date,lifecycle_stage
+MOD001,Nokia,Keypad,Nokia Keypad 1,Keypad,7000,2025-05-01,1,MOD009,2025-05-13,Post-Successor
+MOD002,Nokia,Keypad,Nokia Keypad 2,Keypad,7500,2025-10-31,2,MOD011,2026-02-02,Post-Successor
+MOD003,Nokia,Keypad,Nokia Keypad 3,Keypad,7500,2026-02-21,3,MOD004,2026-05-23,Post-Successor
+MOD004,Nokia,Keypad,Nokia Keypad 4,Keypad,8000,2026-05-23,4,MOD012,2026-05-22,Post-Successor
+MOD005,Samsung,Guru,Samsung Guru 1,Keypad,6500,2025-05-06,1,MOD006,2025-11-09,Post-Successor
+MOD006,Samsung,Guru,Samsung Guru 2,Keypad,7000,2025-11-09,2,MOD007,2026-01-27,Post-Successor
+MOD007,Samsung,Guru,Samsung Guru 3,Keypad,7000,2026-01-27,3,MOD008,2026-04-20,Post-Successor
+MOD008,Samsung,Guru,Samsung Guru 4,Keypad,7500,2026-04-20,4,,,Mature
+MOD009,Lava,Keypad,Lava Keypad 1,Keypad,7500,2025-05-13,1,MOD010,2025-10-28,Post-Successor
+MOD010,Lava,Keypad,Lava Keypad 2,Keypad,8000,2025-10-28,2,MOD002,2025-10-31,Post-Successor
+MOD011,Lava,Keypad,Lava Keypad 3,Keypad,8000,2026-02-02,3,MOD003,2026-02-21,Post-Successor
+MOD012,Lava,Keypad,Lava Keypad 4,Keypad,8500,2026-05-22,4,,,Growth
+MOD013,Samsung,Galaxy M,Samsung Galaxy M 1,Budget,12000,2025-03-26,1,MOD014,2025-10-24,Post-Successor
+MOD014,Samsung,Galaxy M,Samsung Galaxy M 2,Budget,12500,2025-10-24,2,MOD015,2025-12-29,Post-Successor
+MOD015,Samsung,Galaxy M,Samsung Galaxy M 3,Budget,13000,2025-12-29,3,,,Late-Life
+MOD016,Xiaomi,Redmi Note,Xiaomi Redmi Note 1,Budget,14000,2025-05-10,1,MOD017,2025-08-23,Post-Successor
+MOD017,Xiaomi,Redmi Note,Xiaomi Redmi Note 2,Budget,14500,2025-08-23,2,MOD018,2025-12-16,Post-Successor
+MOD018,Xiaomi,Redmi Note,Xiaomi Redmi Note 3,Budget,15000,2025-12-16,3,,,Late-Life
+MOD019,Realme,C Series,Realme C Series 1,Budget,11000,2025-05-15,1,MOD020,2025-10-28,Post-Successor
+MOD020,Realme,C Series,Realme C Series 2,Budget,11500,2025-10-28,2,MOD021,2026-02-17,Post-Successor
+MOD021,Realme,C Series,Realme C Series 3,Budget,12000,2026-02-17,3,,,Mature
+MOD022,Vivo,Y Series,Vivo Y Series 1,Budget,13000,2025-04-06,1,MOD023,2025-10-29,Post-Successor
+MOD023,Vivo,Y Series,Vivo Y Series 2,Budget,13500,2025-10-29,2,MOD024,2026-03-04,Post-Successor
+MOD024,Vivo,Y Series,Vivo Y Series 3,Budget,14000,2026-03-04,3,,,Mature
+MOD025,Samsung,Galaxy A,Samsung Galaxy A 1,Mid-range,24000,2025-04-29,1,MOD026,2025-09-18,Post-Successor
+MOD026,Samsung,Galaxy A,Samsung Galaxy A 2,Mid-range,25000,2025-09-18,2,MOD027,2026-02-17,Post-Successor
+MOD027,Samsung,Galaxy A,Samsung Galaxy A 3,Mid-range,26000,2026-02-17,3,,,Mature
+MOD028,Vivo,V Series,Vivo V Series 1,Mid-range,28000,2025-05-18,1,MOD029,2025-11-09,Post-Successor
+MOD029,Vivo,V Series,Vivo V Series 2,Mid-range,29000,2025-11-09,2,MOD030,2026-01-20,Post-Successor
+MOD030,Vivo,V Series,Vivo V Series 3,Mid-range,30000,2026-01-20,3,,,Late-Life
+MOD031,OnePlus,Nord,OnePlus Nord 1,Mid-range,26000,2025-05-08,1,MOD032,2025-10-29,Post-Successor
+MOD032,OnePlus,Nord,OnePlus Nord 2,Mid-range,27000,2025-10-29,2,MOD033,2026-01-09,Post-Successor
+MOD033,OnePlus,Nord,OnePlus Nord 3,Mid-range,28000,2026-01-09,3,,,Late-Life
+MOD034,Xiaomi,Redmi Pro,Xiaomi Redmi Pro 1,Upper-mid,28000,2025-04-25,1,MOD035,2025-10-15,Post-Successor
+MOD035,Xiaomi,Redmi Pro,Xiaomi Redmi Pro 2,Upper-mid,29000,2025-10-15,2,MOD036,2025-12-15,Post-Successor
+MOD036,Xiaomi,Redmi Pro,Xiaomi Redmi Pro 3,Upper-mid,30000,2025-12-15,3,,,Late-Life
+MOD037,Realme,GT,Realme GT 1,Upper-mid,32000,2025-03-11,1,MOD038,2025-09-14,Post-Successor
+MOD038,Realme,GT,Realme GT 2,Upper-mid,33500,2025-09-14,2,MOD039,2026-02-01,Post-Successor
+MOD039,Realme,GT,Realme GT 3,Upper-mid,34500,2026-02-01,3,,,Late-Life
+MOD040,Oppo,Reno,Oppo Reno 1,Upper-mid,35000,2025-04-08,1,MOD041,2025-10-30,Post-Successor
+MOD041,Oppo,Reno,Oppo Reno 2,Upper-mid,36500,2025-10-30,2,MOD042,2025-12-10,Post-Successor
+MOD042,Oppo,Reno,Oppo Reno 3,Upper-mid,38000,2025-12-10,3,,,Late-Life
+MOD043,Motorola,Edge,Motorola Edge 1,Upper-mid,35000,2025-04-03,1,MOD044,2025-09-17,Post-Successor
+MOD044,Motorola,Edge,Motorola Edge 2,Upper-mid,36500,2025-09-17,2,MOD045,2025-12-09,Post-Successor
+MOD045,Motorola,Edge,Motorola Edge 3,Upper-mid,38000,2025-12-09,3,,,Late-Life
+MOD046,OnePlus,Number,OnePlus Number 1,Premium,50000,2025-04-06,1,MOD047,2025-10-31,Post-Successor
+MOD047,OnePlus,Number,OnePlus Number 2,Premium,52000,2025-10-31,2,MOD048,2026-01-15,Post-Successor
+MOD048,OnePlus,Number,OnePlus Number 3,Premium,54000,2026-01-15,3,,,Late-Life
+MOD049,Nothing,Phone,Nothing Phone 1,Premium,42000,2025-03-11,1,MOD050,2025-08-28,Post-Successor
+MOD050,Nothing,Phone,Nothing Phone 2,Premium,43500,2025-08-28,2,MOD051,2026-02-14,Post-Successor
+MOD051,Nothing,Phone,Nothing Phone 3,Premium,45500,2026-02-14,3,,,Mature
+MOD052,Samsung,Galaxy S,Samsung Galaxy S 1,Flagship,85000,2025-03-11,1,MOD053,2025-11-05,Post-Successor
+MOD053,Samsung,Galaxy S,Samsung Galaxy S 2,Flagship,88500,2025-11-05,2,MOD054,2026-02-19,Post-Successor
+MOD054,Samsung,Galaxy S,Samsung Galaxy S 3,Flagship,92000,2026-02-19,3,,,Mature
+MOD055,Samsung,Galaxy Z,Samsung Galaxy Z 1,Flagship,120000,2025-05-17,1,MOD056,2025-10-13,Post-Successor
+MOD056,Samsung,Galaxy Z,Samsung Galaxy Z 2,Flagship,125000,2025-10-13,2,MOD057,2026-01-18,Post-Successor
+MOD057,Samsung,Galaxy Z,Samsung Galaxy Z 3,Flagship,129500,2026-01-18,3,,,Late-Life
+MOD058,Apple,iPhone,Apple iPhone 1,Flagship,95000,2025-03-30,1,MOD059,2025-09-06,Post-Successor
+MOD059,Apple,iPhone,Apple iPhone 2,Flagship,99000,2025-09-06,2,MOD060,2025-12-18,Post-Successor
+MOD060,Apple,iPhone,Apple iPhone 3,Flagship,102500,2025-12-18,3,,,Late-Life
