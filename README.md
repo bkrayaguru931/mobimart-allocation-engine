@@ -1,4 +1,3 @@
-````markdown
 # MobiMart — Demand Forecasting & Inventory Allocation System
 
 MobiMart is a demand forecasting and inventory allocation system designed to help a retail business distribute limited warehouse inventory across multiple stores.
@@ -757,6 +756,4 @@ and the test suite should report:
 **Babykrishna Rayaguru**
 
 M.Tech — Computer Science & Engineering (Artificial Intelligence)
-
-```
 
